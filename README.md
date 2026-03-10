@@ -1,4 +1,4 @@
-# LLm Security Challenges
+# LLM Security Challenges
 
 Evasion attacks modify or craft inputs to an LLM, in order to deliberately bypass, manipulate or degrade the model's intended behavior, functionality or safety constraints without changing the model parameters.
 
